@@ -4,7 +4,7 @@ Visual pipeline builder for designing and validating node-based workflows.
 
 Build pipelines by dragging nodes onto a canvas, connecting them with edges, and running analysis to verify the graph structure (including DAG detection).
 
-![React](https://img.shields.io/badge/React-18.x-61dafb?logo=react)
+![React](https://img.shields.io/badge/React-18.x-61dafb?logo=react) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688?logo=fastapi)
 ![React Flow](https://img.shields.io/badge/React%20Flow-11.x-ff0072)
 
