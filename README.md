@@ -44,7 +44,7 @@ Build pipelines by dragging nodes onto a canvas, connecting them with edges, and
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vectorshift-mini-builder.git
+git clone https://github.com/yatish/vectorshift.ai_assignment.git
 cd vectorshift-mini-builder
 ```
 
@@ -173,6 +173,12 @@ Analyzes a pipeline graph and returns node count, edge count, and whether it is 
 - **`is_dag`** — `true` if the graph has no cycles; `false` if at least one cycle exists (Kahn’s algorithm).
 
 ---
+
+screenshots:
+<img width="1918" height="876" alt="image" src="https://github.com/user-attachments/assets/f81fb191-602d-46c8-a48d-6bac5c55679a" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/593c6f0b-55dd-4305-9167-47d456b567ae" />
+
 
 ## License
 
